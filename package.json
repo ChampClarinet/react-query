@@ -1,5 +1,6 @@
 {
   "name": "@cantabile/react-query",
+  "version": "1.0.0",
   "description": "@tanstack's react-query but more readable",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
